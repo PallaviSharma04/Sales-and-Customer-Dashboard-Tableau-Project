@@ -94,3 +94,19 @@ The analysis provided by the dashboards( The interactive dashboard can be downlo
 
 ![Sales Dashboard](https://github.com/user-attachments/assets/874b8f4f-25e0-4d6d-8ecc-eb064b8355ce)
 
+### Customer Dashboard
+**1. Key Metrics**:
+
+  - **Total Customers**: 693 (8.6% increase YoY)
+  - **Average Sales per Customer**: $1,058 (10.8% increase YoY)
+  - **Total Orders**: 1,687 (28.3)% increase YoY)
+
+**2. Customer Order Trends**:
+
+  - **November 2023** had the highest customer count (**216 customers** served).
+  - **Most common order frequency**: 1-2 orders per customer with 200 customers in each category.
+  - **Least common order frequency**: 7-8 orders per customer with only 2 customers each.
+
+**3. Top Customers (by Profit)**:
+
+  - **Raymond Buch** was the top customer by profit, contributing $14,203 in sales and $6,780 in profit.
