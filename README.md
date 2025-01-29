@@ -55,12 +55,30 @@ The analytical process for this project followed a structured approach, ensuring
   - Incorporated icons and visual elements to enhance usability.
 
 ## Business Insights
-The analysis provided by the dashboards( The interactive dashboard can be downloaded <a href="https://public.tableau.com/app/profile/pallavi.sharma4076/viz/SalesCustomerDashboard_17377065104000/SalesDashboard">here </a>) highlights the following key findings into the company's sales trends, profitability, customer behaviour and regional performance for 2023:
+The analysis provided by the dashboards( The interactive dashboard can be downloaded <a href="https://public.tableau.com/app/profile/pallavi.sharma4076/viz/SalesCustomerDashboard_17377065104000/SalesDashboard">here </a>) highlights the following key findings into the company's sales trends, profitability, customer behaviour and regional performance for **2023**:
 ### Sales Dashboard
 **1. Key Metrics**:
-- **Total Sales**: $733K (20.4% increase vs. prior year)
-- **Total Profit**: $93K (14.2% increase vs. prior year)
-- **Total Quantity**: 12K (26.8% increase vs. prior year)
+- **Total Sales**: $733K (20.4% growth YoY)
+- **Total Profit**: $93K (14.2% growth YoY)
+- **Total Quantity Sold**: 12K units (26.8% growth YoY)
+
 **2. Monthly Highlights**:
-  - **Max Sales**: November 2023 with $118K.
-  - **Min Sales**: Fe
+  - **Highest Sales**: November ($118K) ;
+    **Lowest Sales**: February ($20K) 
+  - **Highest Profit**: March ($15K) ;
+    **Lowest Profit**: April ($1K) 
+  - **Highest Units Sold**: November (1.8K units) ;
+    **Lowest Units Sold**: February (0.4K units)
+
+**3. Yearly Trends (2020-2023)**:
+
+  - Sales consistently peak in **Q4 (mostly November-December)**, while **February** consistently records the lowest sales across all years.
+  - Profit trends generally **align with high-sales months**, except in **2023**, **where March had the highest profit**.
+  - Across all years, **Phones** and **Chairs** remain the **most sold subcategories**.
+  - In **2022 and 2023**, **Copiers** were the **most profitable**, while **Tables** have been **consistently loss-making** across all years.
+
+**4. Subcategory Performance**:
+
+  - **Top-Selling Subcategories**: Phones($105K), Chairs($96K), and Binders($73K).
+  - **Most Profitable Subcategories**: Copiers($25K), Accessories($16K), and Phones($13K).
+  - **Loss-Making Subcategories**: Tables, Machines, Suppliers, and Bookcases. 
