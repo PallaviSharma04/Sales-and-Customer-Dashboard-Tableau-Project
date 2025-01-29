@@ -70,15 +70,27 @@ The analysis provided by the dashboards( The interactive dashboard can be downlo
   - **Highest Units Sold**: November (1.8K units) ;
     **Lowest Units Sold**: February (0.4K units)
 
-**3. Yearly Trends (2020-2023)**:
+**3. Weekly Highlights**: 
+  - **Week 48** in 2023 recorded the **highest weekly sales, reaching $36K**, which surpassed the average weekly sales of 2023($14K). On the other hand **Week 21** experienced the **lowest sales at $4.36K**, falling below the average.
+  - **Week 12** achieved the **highest weekly profit ($9K)**, exceeding the year's average weekly profit of $2K, In contrast, **Week 16** experienced the **largest weekly loss ($3K)**.
+
+**4. Subcategory Performance**:
+
+  - **Top-Selling Subcategories**: Phones($105K), Chairs($96K), and Binders($73K).
+  - **Most Profitable Subcategories**: Copiers($25K), Accessories($16K), and Phones($13K).
+  - **Loss-Making Subcategories**: Tables, Machines, Suppliers, and Bookcases.
+
+**5. Regional Insights**: 
+
+  - In **Central**, **Eastern** **and Southern regions**, the most sold subcategories are **Chairs** and **Phones**.
+  - In **Western region**, the most sold subcategories are **Copiers** and **Binders**.
+
+**6. Yearly Trends (2020-2023)**:
 
   - Sales consistently peak in **Q4 (mostly November-December)**, while **February** consistently records the lowest sales across all years.
   - Profit trends generally **align with high-sales months**, except in **2023**, **where March had the highest profit**.
   - Across all years, **Phones** and **Chairs** remain the **most sold subcategories**.
   - In **2022 and 2023**, **Copiers** were the **most profitable**, while **Tables** have been **consistently loss-making** across all years.
 
-**4. Subcategory Performance**:
+![Sales Dashboard](https://github.com/user-attachments/assets/874b8f4f-25e0-4d6d-8ecc-eb064b8355ce)
 
-  - **Top-Selling Subcategories**: Phones($105K), Chairs($96K), and Binders($73K).
-  - **Most Profitable Subcategories**: Copiers($25K), Accessories($16K), and Phones($13K).
-  - **Loss-Making Subcategories**: Tables, Machines, Suppliers, and Bookcases. 
