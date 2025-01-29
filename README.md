@@ -53,3 +53,11 @@ The analytical process for this project followed a structured approach, ensuring
   - Structured dashboard using containers for a clean layout.
   - Added legends, filters, and dynamic navigation to improve interactivity.
   - Incorporated icons and visual elements to enhance usability.
+
+## Business Insights
+The analysis provided by the dashboards( The interactive dashboard can be downloaded <a href="https://public.tableau.com/app/profile/pallavi.sharma4076/viz/SalesCustomerDashboard_17377065104000/SalesDashboard">here</a>) highlights the following key findings into the company's sales trends, profitability, customer behaviour and regional performance for 2023:
+### Sales Dashboard
+**1. Key Metrics**:
+- **Total Sales**: $733K (20.4% increase vs. prior year)
+- **Total Profit**: $93K (14.2% increase vs. prior year)
+- **Total Quantity**: 12K (26.8% increase vs. prior year)
