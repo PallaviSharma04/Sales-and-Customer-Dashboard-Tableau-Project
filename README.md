@@ -90,7 +90,7 @@ The analysis provided by the dashboards( The interactive dashboard can be downlo
   - Sales consistently peak in **Q4 (mostly November-December)**, while **February** consistently records the lowest sales across all years.
   - Profit trends generally **align with high-sales months**, except in **2023**, **where March had the highest profit**.
   - Across all years, **Phones** and **Chairs** remain the **most sold subcategories**.
-  - In **2022 and 2023**, **Copiers** were the **most profitable**, while **Tables** have been **consistently loss-making** across all years.
+  - In **2022 and 2023**, **Copiers and Accessories** were the **most profitable**, while **Tables** have been **consistently loss-making** across all years.
 
 ![Sales Dashboard](https://github.com/user-attachments/assets/874b8f4f-25e0-4d6d-8ecc-eb064b8355ce)
 
@@ -99,14 +99,44 @@ The analysis provided by the dashboards( The interactive dashboard can be downlo
 
   - **Total Customers**: 693 (8.6% increase YoY)
   - **Average Sales per Customer**: $1,058 (10.8% increase YoY)
-  - **Total Orders**: 1,687 (28.3)% increase YoY)
+  - **Total Orders**: 1,687 (28.3% increase YoY)
 
-**2. Customer Order Trends**:
+**2. Monthly Trends**:
 
-  - **November 2023** had the highest customer count (**216 customers** served).
+  - **November 2023** recorded the **highest customer activity with 216 customers** making purchases, while **February had the lowest customer count**.
+  - **Order volume peaked in November**, aligning with the highest customer engagement, while **February had the fewest total orders**.
+  - Customers **spent the most on average in January**, whereas **April saw the lowest average sales per customer**.
+
+
+**3. Customer Order Trends**:
+
   - **Most common order frequency**: 1-2 orders per customer with 200 customers in each category.
   - **Least common order frequency**: 7-8 orders per customer with only 2 customers each.
 
-**3. Top Customers (by Profit)**:
+**4. Top Customers (by Profit)**:
 
-  - **Raymond Buch** was the top customer by profit, contributing $14,203 in sales and $6,780 in profit.
+  - **Raymond Buch** was the **top customer by profit** in 2023, contributing $14,203 in sales and $6,780 in profit from 3 orders.
+
+
+![Customer Dashboard](https://github.com/user-attachments/assets/9a71a60b-bea4-4a0a-a4c7-bb89d382c263)
+
+## Business Recommendations
+**1. Focus on Profitable Subcategories**:
+  - Promote **Copiers, Phones and Accessories** as these are highly profitable.
+  - Offer targeted discounts or marketing campaigns to further boost sales in these areas.
+
+**2. Address Loss-Making Subcategories**: 
+  - Investigate the reason behind the losses in **Tables, Machines, Suppliers and Bookcases**.
+  - Consider revising pricing strategies, supplier contracts, or discontinuing consistently low-performing products like **Tables**.
+
+**3. Leverage Regional Insights**:
+  - Prioritize sales of **Phones and Chairs** in Central, Eastern and Southern regions.
+  - Develop regional strategies to expand the market for **Copiers and Binders** in Western region.
+
+**4. Customer Retention**:
+  - Engage high-value customers like **Raymond Buch** with loyalty programs or exclusive offers.
+  - Focus on converting customers with 1-2 orders into repeat buyers through promotions or subscription plans.
+
+**5. Seasonal Planning**:
+  - Increase marketing efforts in **Q4 (November-December)**, the **peak sales period**.
+  - Develop targeted campains for **February & April**, historically **low-performing months**.
