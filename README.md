@@ -139,4 +139,4 @@ The analysis provided by the dashboards( The interactive dashboard can be downlo
 
 **5. Seasonal Planning**:
   - Increase marketing efforts in **Q4 (November-December)**, the **peak sales period**.
-  - Develop targeted campains for **February & April**, historically **low-performing months**.
+  - Develop targeted campains for **January,February & April**, historically **low-performing months**.
